@@ -1,5 +1,8 @@
 This tree contains BLHeli code for sensorless brushless motor electronic speed control (ESC) boards.  
-  
+
+I will modifie this to a rump up to a fixxed trottel to run without any external Controller.
+This is just for running an BLDC Motor for an Packraft Air Pump.
+
 To view and use the files, click the "Clone or download" button on this page,  
 and then select "Download ZIP" to download the repository to your computer.  
   
